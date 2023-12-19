@@ -5,20 +5,20 @@ import qrcode
 
 janela = ctk.CTk()
 janela.geometry("300x300")
-janela.title("ID do Casco")
+janela.title("Gerador")
 janela.resizable(False,False)
 
-nf = None 
+gerador = None 
 
 def clique ():
-    info = nf.get()
+    info = gerador.get()
     img = qrcode.make(info)
     img.show()
     nf.delete(0,END)
 
 
-nf = ctk.CTkEntry(janela , placeholder_text="Insira o número da NF-e:",font=("Constantia", 13), width=170)
-nf.place(x = 70, y=110)
+gerador = ctk.CTkEntry(janela , placeholder_text="Insira seu texto aqui!!!:",font=("Constantia", 13), width=170)
+gerador.place(x = 70, y=110)
 
 
 botao = ctk.CTkButton(janela, text="Gerar Qr Code", font=("Constantia",13), width=150,command=clique)
