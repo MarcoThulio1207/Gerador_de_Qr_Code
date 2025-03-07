@@ -6,7 +6,7 @@ Este projeto é uma ferramenta prática desenvolvida em **Python** para gerar **
 
 **Formatos de Saída: Salve seus QR codes em PNG ou JPEG para compartilhar facilmente ou imprimir.**
 
-## zPor que usar este gerador?
+## Por que usar este gerador?
 📋 **Fácil de usar: Basta copiar o texto desejado e gerar o QR code.**
 
 📋 **Versátil: Perfeito para compartilhar informações rapidamente, seja por e-mail, redes sociais ou impressão.**
