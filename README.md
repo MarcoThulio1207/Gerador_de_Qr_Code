@@ -1,4 +1,7 @@
 # 📊 Gerador de QR Code
+
+![Badge de Status](https://img.shields.io/badge/status-Conclu%C3%ADdo-success?style=for-the-badge)
+
 Este projeto é uma ferramenta prática desenvolvida em **Python** para gerar **QR codes** a partir de textos, como e-mails, senhas, links e muito mais! 📈 🖥️
 
 ## Funcionalidades
@@ -23,5 +26,5 @@ Este projeto é uma ferramenta prática desenvolvida em **Python** para gerar **
 
 ---
 
-Gostou do projeto? Fique à vontade para contribuir! 💙
+Gostou do projeto? Fique à vontade para contribuir! 🖖🏻🚀
 
